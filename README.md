@@ -58,8 +58,9 @@ project-folder/
 2. **Ensure Dependencies are Installed**:
    Install required libraries (see [Prerequisites](#prerequisites)).
 
-3. **Configure `privatekey.pem`**:
+3. **Configure**:
    - Add your private key file (`privatekey.pem`) to the project directory.
+   - Change variables to your environment-details at the top of token_handler.py and main-py
 
 4. **Run the Script**:
    Run the `main.py` script:
